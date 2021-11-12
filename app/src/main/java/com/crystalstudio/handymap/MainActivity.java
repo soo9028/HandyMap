@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     //2. 내 위치 정보 객체(위도, 경도 정보 보유한 객체)
     //Location 매니저로 받거나, fusedAPI
     Location mylocation;
+    //
 
     //Fused Location 관리 객체
     FusedLocationProviderClient locationProviderClient;
