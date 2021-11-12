@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.crystalstudio.kakaosearchmap"
+        applicationId "com.crystalstudio.handymap"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1

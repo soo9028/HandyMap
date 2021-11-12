@@ -1,4 +1,4 @@
-package com.crystalstudio.kakaosearchmap;
+package com.crystalstudio.handymap;
 
 import android.content.Context;
 import android.content.Intent;

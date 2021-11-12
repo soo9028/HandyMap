@@ -1,4 +1,4 @@
-package com.crystalstudio.kakaosearchmap;
+package com.crystalstudio.handymap;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

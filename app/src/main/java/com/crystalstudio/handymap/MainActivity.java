@@ -1,4 +1,4 @@
-package com.crystalstudio.kakaosearchmap;
+package com.crystalstudio.handymap;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
