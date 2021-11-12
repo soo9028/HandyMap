@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/choice_wc"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_restroom"
+        android:background="@drawable/bg_choice_select"
+        app:tint="@color/hotpink"
+        android:padding="8dp"
+        android:layout_margin="8dp"
+        android:onClick="clickChoice"/>
+
+    <ImageView
+        android:id="@+id/choice_movie"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/bg_choice"
+        android:onClick="clickChoice"
+        android:padding="8dp"
+        android:src="@drawable/ic_movie"
+        app:tint="@color/hotpink"/>
+
+    <ImageView
+        android:id="@+id/choice_gas"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/bg_choice"
+        android:onClick="clickChoice"
+        android:padding="8dp"
+        android:src="@drawable/ic_gas"
+        app:tint="@color/hotpink" />
+
+    <ImageView
+        android:id="@+id/choice_ev"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/bg_choice"
+        android:onClick="clickChoice"
+        android:padding="8dp"
+        android:src="@drawable/ic_electricity"
+        app:tint="@color/hotpink" />
+
+    <ImageView
+        android:id="@+id/choice_cafe"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/bg_choice"
+        android:onClick="clickChoice"
+        android:padding="8dp"
+        android:src="@drawable/ic_cafe"
+        app:tint="@color/hotpink" />
+
+    <ImageView
+        android:id="@+id/choice_pharmacy"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_margin="8dp"
+        android:background="@drawable/bg_choice"
+        android:onClick="clickChoice"
+        android:padding="8dp"
+        android:src="@drawable/ic_pharmacy"
+        app:tint="@color/hotpink" />
+
+    <ImageView
+        android:id="@+id/choice_food"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_rice"
+        android:background="@drawable/bg_choice"
+        app:tint="@color/hotpink"
+        android:padding="8dp"
+        android:layout_margin="8dp"
+        android:onClick="clickChoice"/>
+
+    <ImageView
+        android:id="@+id/choice_school"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_school"
+        android:background="@drawable/bg_choice"
+        app:tint="@color/hotpink"
+        android:padding="8dp"
+        android:layout_margin="8dp"
+        android:onClick="clickChoice"/>
+    <ImageView
+        android:id="@+id/choice_hospital"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_hospital"
+        android:background="@drawable/bg_choice"
+        app:tint="@color/hotpink"
+        android:padding="8dp"
+        android:layout_margin="8dp"
+        android:onClick="clickChoice"/>
+    <ImageView
+        android:id="@+id/choice_academy"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_academy"
+        android:background="@drawable/bg_choice"
+        app:tint="@color/hotpink"
+        android:padding="8dp"
+        android:layout_margin="8dp"
+        android:onClick="clickChoice"/>
+    <ImageView
+        android:id="@+id/choice_gym"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_gym"
+        android:background="@drawable/bg_choice"
+        app:tint="@color/hotpink"
+        android:padding="8dp"
+        android:layout_margin="8dp"
+        android:onClick="clickChoice"/>
+
+</LinearLayout>

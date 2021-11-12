@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/drawable/bg_search_et.xml" value="0.32407407407407407" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/drawable/splash.xml" value="0.31555555555555553" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/font/main_font.xml" value="0.32314814814814813" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/layout/activity_place_url.xml" value="0.3536458333333333" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/layout/choice_list.xml" value="0.30585585585585584" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/layout/fragment_search_list.xml" value="0.30585585585585584" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/layout/fragment_search_map.xml" value="0.30585585585585584" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/layout/recycler_item_list_fragment.xml" value="0.30585585585585584" />
+        <entry key="..\:/Android/Projects/KakaoSearchApp/app/src/main/res/menu/actionbar_main.xml" value="0.30585585585585584" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/drawable/bg_choice.xml" value="0.32685185185185184" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/drawable/bg_choice_select.xml" value="0.32685185185185184" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/layout/activity_main.xml" value="0.3536458333333333" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/layout/activity_place_url.xml" value="0.3536458333333333" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/layout/choice_list.xml" value="0.3536458333333333" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/layout/fragment_search_list.xml" value="0.3536458333333333" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/layout/fragment_search_map.xml" value="0.3536458333333333" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/layout/recycler_item_list_fragment.xml" value="0.3536458333333333" />
+        <entry key="..\:/Android/Projects/TP11KakaoPlaceSearchApp/app/src/main/res/menu/actionbar_main.xml" value="0.3536458333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
